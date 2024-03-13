@@ -76,7 +76,7 @@ body {
 }
 
 .form-container .login-container .form-part .form-floating .form-control {
-  background-color: rgba(204, 204, 204, 0.15);
+  background-color: rgba(115, 104, 104, 0.15);
 }
 
 .form-container .login-container .form-part .form-floating .form-control:hover,
@@ -173,7 +173,7 @@ body {
 }
 
 .form-row .form-control {
-  background-color: rgba(0, 0, 0, 0.12);
+  background-color: rgb(255, 255, 255);
   border-radius: 2px;
   margin-bottom: 10px;
   border-color: #928e8e;
@@ -204,10 +204,6 @@ body {
 
 hr {
   border-top: 2px solid #000;
-}
-
-.serial-input {
-  background-color: transparent;
 }
 
 
